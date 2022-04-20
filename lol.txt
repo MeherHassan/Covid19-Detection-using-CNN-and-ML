@@ -1,0 +1,10 @@
+Python 3.7 verion required.
+Required Libraries:
+Tensorflow
+keras
+OpenCv
+Matplotlib
+Numpy
+
+conda env list
+tensorboard --logdir="C:\Users\RAMBO\Downloads\Covid 19 Detection\logs3"
